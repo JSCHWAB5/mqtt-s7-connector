@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/timroemisch/mqtt-s7-connector.git"
+    "url": "git://github.com/jschwab5/mqtt-s7-connector.git"
   },
   "license": "ISC",
   "dependencies": {
