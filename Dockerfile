@@ -1,4 +1,4 @@
-FROM node:slim
+FROM alpine:latest
 
 # Create app directory
 WORKDIR /usr/src/app
